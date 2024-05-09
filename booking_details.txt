@@ -1,0 +1,5 @@
+Client ID: 19
+Employee ID: John Doe
+Booking Date: John Doe
+Description: Test Booking 1
+Price: 100.0
